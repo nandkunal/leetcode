@@ -8,7 +8,10 @@ public class AddDigits {
      System.out.println(s);
 	}
 
-	
+/**
+* @arg : num
+* @return : integer
+**/	
 	 public int addDigits(int num) {
 		 if(num<10)
 		 {
